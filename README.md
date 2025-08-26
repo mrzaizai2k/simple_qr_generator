@@ -8,7 +8,7 @@
 A **lightweight, free, and open-source** tool to generate customized QR codes.  
 No subscriptions, no paywalls — just a simple QR generator that works.
 
-👉 Try it here: [Simple QR Generator](https://mrzaizai2k.github.io/simple_qr_generator.html)
+👉 Try it here: [Simple QR Generator](https://mrzaizai2k.github.io/qr_generator)
 
 ---
 
